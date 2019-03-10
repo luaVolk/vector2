@@ -1,0 +1,7 @@
+name: 'vector2'
+version: 1.0.0
+author: Volk <templar.volk@yandex.com>
+description: Vector2 math library
+environment:
+  sdk: '>=1.0.0 <3.0.0'
+dev_dependencies:
